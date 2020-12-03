@@ -124,43 +124,43 @@ conn.sendMessage(id, tambahan.hai ,MessageType.text);
 }
 else if (text == 'assalamualaikum')
 {
-conn.sendMessage(id, tambahan.ass ,MessageType.text);
+conn.sendMessage(id, tambahan.wallaikumsalam ,MessageType.text);
 }
 else if (text == 'bro')
 {
-conn.sendMessage(id, tambahan.bro ,MessageType.text);
+conn.sendMessage(id, tambahan.yaa? ,MessageType.text);
 }
 else if (text == 'p')
 {
-conn.sendMessage(id, tambahan.p ,MessageType.text);
+conn.sendMessage(id, tambahan.utamakan salam  ,MessageType.text);
 }
 else if (text == 'test')
 {
-  conn.sendMessage(id, tambahan.test, MessageType.text);
+  conn.sendMessage(id, tambahan.yaaa?, MessageType.text);
 }
 else if (text == 'HALO')
 {
-conn.sendMessage(id, tambahan.halo ,MessageType.text);
+conn.sendMessage(id, tambahan.HAI ,MessageType.text);
 }
 else if (text == 'Halo')
 {
-conn.sendMessage(id, tambahan.halo ,MessageType.text);
+conn.sendMessage(id, tambahan.Hai ,MessageType.text);
 }
 else if (text == 'Hai')
 {
-conn.sendMessage(id, tambahan.hai ,MessageType.text);
+conn.sendMessage(id, tambahan.Halo ,MessageType.text);
 }
 else if (text == 'Assalamualaikum')
 {
-conn.sendMessage(id, tambahan.ass ,MessageType.text);
+conn.sendMessage(id, tambahan.Wallaikumsalam ,MessageType.text);
 }
-else if (text == 'Bro')
+else if (text == 'Asu')
 {
-conn.sendMessage(id, tambahan.bro ,MessageType.text);
+conn.sendMessage(id, tambahan.Ga Boleh Toxic kk ,MessageType.text);
 }
-else if (text == 'P')
+else if (text == 'KONTOL')
 {
-conn.sendMessage(id, tambahan.p ,MessageType.text);
+conn.sendMessage(id, tambahan.Ga Boleh Toxic kk ,MessageType.text);
 }
 else if (text == 'Test')
 {
@@ -172,7 +172,7 @@ conn.sendMessage(id, tambahan.hai ,MessageType.text);
 }
 else if (text == 'ASSALAMUALAIKUM')
 {
-conn.sendMessage(id, tambahan.ass ,MessageType.text);
+conn.sendMessage(id, tambahan.Wallaikumsalam ,MessageType.text);
 }
 else if (text == 'BRO')
 {
